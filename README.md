@@ -1,6 +1,6 @@
 **Some data and codes for the study of Wang et al., 2021, Individual Uniqueness in the Neonatal Functional Connectome**
 
-Data: 
+### Data
 1.	Basic information of the neonates, including participant ID, sex, age, and head motion parameter.
 Basic_info.mat
 Note: In the third column, ‘-1’ and ‘1’ denote female and male, respectively. The fourth and fifth columns denote the gestational age at birth and postmenstrual age at scan, respectively. The sixth and seventh columns denote mFD of Section 1 and Section 2, respectively. mFD, mean framewise displacement.
@@ -13,7 +13,7 @@ Note: In the third column, ‘-1’ and ‘1’ denote female and male, respecti
 5.	Individual identification based on only strong connections
 	   indiv_strong.mat 
 
-Codes:
+### Codes
 1.	Individual identification (Finn et al. 2015)
 	   ID_predict.m
 2.	Calculate group consistency and differential power values of edges (Finn et al. 2015)
@@ -25,7 +25,7 @@ Codes:
 5.	Calculate the inter-subject variability at the connection and ROI levels
 	   variability.m
 
-References
+### References
 
 Finn ES, Shen X, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. 2015. Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity. Nat Neurosci. 18:1664-1671.
 
