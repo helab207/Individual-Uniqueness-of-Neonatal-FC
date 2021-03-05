@@ -5,9 +5,9 @@
 Basic_info.mat
 Note: In the third column, ‘-1’ and ‘1’ denote female and male, respectively. The fourth and fifth columns denote the gestational age at birth and postmenstrual age at scan, respectively. The sixth and seventh columns denote mFD of Section 1 and Section 2, respectively. mFD, mean framewise displacement.
 2.	Individual identification based on preprocessed fMRI data with GSR
-	   indiv_GSR.mat
+	   indiv_GSR.mat  (can be download from https://drive.google.com/file/d/1AGffdgyGnxIpOg-mfHwkup6xbDhRhw-S/view?usp=sharing)
 3.	Individual identification based on preprocessed fMRI data without GSR
-	   indiv_NGSR.mat
+	   indiv_NGSR.mat (can be download from https://drive.google.com/file/d/1GptgvaaKYdsCd-5HIvptV1vvcpCLF-ma/view?usp=sharing)
 4.	Individual identification based on scrubbed fMRI data
 	   indiv_scrubbed.mat
 5.	Individual identification based on only strong connections
