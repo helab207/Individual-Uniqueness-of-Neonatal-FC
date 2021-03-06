@@ -29,3 +29,4 @@ Note: In the third column, ‘-1’ and ‘1’ denote female and male, respecti
 
 Finn ES, Shen X, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. 2015. Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity. Nat Neurosci. 18:1664-1671.
 
+Wang Q, Xu Y, Zhao T, Xu Z, He Y, Liao X. 2021. Individual uniqueness in the neonatal functional connectome. Cereb Cortex. accepted.
